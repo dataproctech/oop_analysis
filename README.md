@@ -1,4 +1,4 @@
-# **Laboratorium: Analiza obiektowa z modelowaniem koncepcyjnym, strukturalnym i projektowaniem**
+# **Laboratorium 3: Analiza obiektowa z modelowaniem koncepcyjnym, strukturalnym i projektowaniem**
 
 ## **Cele:**
 
